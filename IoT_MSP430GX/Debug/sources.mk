@@ -114,4 +114,5 @@ SUBDIRS := \
 . \
 AM2315 \
 I2C \
+UART \
 
