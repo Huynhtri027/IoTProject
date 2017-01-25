@@ -23,5 +23,6 @@
 
 #include "I2C/I2C.h"
 #include "AM2315/AM2315.h"
+#include "UART/UART.h"
 
 #endif /* INCLUDE_H_ */

@@ -2,6 +2,8 @@
 # Automatically-generated file. Do not edit!
 ################################################################################
 
+SHELL = cmd.exe
+
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
 ../AM2315/AM2315.c 
@@ -13,10 +15,10 @@ OBJS += \
 ./AM2315/AM2315.obj 
 
 OBJS__QUOTED += \
-"AM2315/AM2315.obj" 
+"AM2315\AM2315.obj" 
 
 C_DEPS__QUOTED += \
-"AM2315/AM2315.d" 
+"AM2315\AM2315.d" 
 
 C_SRCS__QUOTED += \
 "../AM2315/AM2315.c" 
